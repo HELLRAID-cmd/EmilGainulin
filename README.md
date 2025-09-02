@@ -49,7 +49,7 @@
 <h2>Связаться</h2>
 
 <div>
-  <a href="https://t.me/@HELLRAD1" target="_blank">
+  <a href="https://t.me/HELLRAD1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" alt="telegram logo" />
   </a>
 </div>
