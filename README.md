@@ -10,9 +10,13 @@
 </p>
 <a href="https://github.com/HELLRAID-cmd/Portfolio" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub Portfolio"/>
+  Мой сайт
 </a> 
+<br>
+<br>
 <a href="https://www.figma.com/design/ljYAorZzZVtGD4M4rZJ7v8/Portfolio?node-id=0-1&p=f&t=CBmcrDtwUecrlInX-0" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma"/>
+  Дизайн сайта
 </a>
 
 ###
